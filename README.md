@@ -40,8 +40,9 @@
 whois networkwalks.com
 ```
 <img width="874" height="822" alt="p1" src="https://github.com/user-attachments/assets/9e32794f-28f8-488a-96e8-0da84bd07619" />
-* Registrar : GoDaddy.com | Name servers: NS6135.HOSTINGER.CON,NS6136.HOSGATER.COM*
-
+*Registrar: GoDaddy.com | Name Servers:*
+*NS6135.HOSTGATOR.COM,*
+*NS6136.HOSTGATOR.COM*
 
 
 
