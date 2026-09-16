@@ -23,7 +23,7 @@
 | Zenmap(Nmap GUI) | local network host discovery & topology |
 #🔐 Key Findings
 ## Footprinting
-<code>(networkwalks.com)</code>
+##<code>(networkwalks.com)</code>
 |Finding | Value |
 |----|----|
 |Register| GoDAddy.com|
