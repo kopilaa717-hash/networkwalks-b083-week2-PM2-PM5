@@ -12,6 +12,17 @@
 | Assessment Type | Network Reconnaissance & Zenmap
 | Module | PM-2 & PM-5 |
 
+## Tools used 
+| Tools | Purpose|
+|-----|------|
+| Whois | Domain Registeration details |
+| WhatWeb | Web technology fingerprinting(CMS,plugins,server) |
+| Curl-I | HTTP rsponse headers inspection |
+| Wafw00f | Web Application Firewall detection|
+| dnsrecon | DNS record enumeration (NS,MX.TXT,SRV)
+| Zenmap(Nmap GUI) | local network host discovery & topology |
+
+
 
 
 
