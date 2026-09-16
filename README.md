@@ -23,7 +23,7 @@
 | Zenmap(Nmap GUI) | local network host discovery & topology |
 #🔐 Key Findings
 ## Footprinting
-##<code>(networkwalks.com)</code>
+<code>(networkwalks.com)</code>
 |Finding | Value |
 |----|----|
 |Register| GoDAddy.com|
@@ -34,6 +34,11 @@
 |WAF | ModSecurity (SpiderLabs) |
 |DNS Server | BIND 9.16.23-RH |
 |DNS Records Fund | 8(SOA,NS,MX,A,TXT,SRV) |
+# Evidence Gallery 
+## 1. whois networkwalks.com
+```bash
+whois networkwalks.com
+```
 
 
 
