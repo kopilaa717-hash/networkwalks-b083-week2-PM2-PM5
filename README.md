@@ -21,9 +21,9 @@
 | Wafw00f | Web Application Firewall detection|
 | dnsrecon | DNS record enumeration (NS,MX.TXT,SRV)
 | Zenmap(Nmap GUI) | local network host discovery & topology |
-
+#🔐 Key Findings
 ## Footprinting
-(networkwalks.com)
+##(networkwalks.com)
 |Finding | Value |
 |----|----|
 |Register| GoDAddy.com|
