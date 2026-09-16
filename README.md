@@ -12,7 +12,7 @@
 | Assessment Type | Network Reconnaissance & Zenmap
 | Module | PM-2 & PM-5 |
 
-## 🛠Tools used 
+## 🛠Tools Used 
 | Tools | Purpose|
 |-----|------|
 | Whois | Domain Registeration details |
@@ -21,6 +21,19 @@
 | Wafw00f | Web Application Firewall detection|
 | dnsrecon | DNS record enumeration (NS,MX.TXT,SRV)
 | Zenmap(Nmap GUI) | local network host discovery & topology |
+
+## Footprinting
+(networkwalks.com)
+|Finding | Value |
+|----|----|
+|Register| GoDAddy.com|
+|Hosting Provider| Hostgater |
+|CMS | WordPress 7.1 |
+|plugin | WordPress Download Manager 3.3.58|
+|Web Server | Apache |
+|WAF | ModSecurity (SpiderLabs) |
+|DNS Server | BIND 9.16.23-RH |
+|DNS Records Fund | 8(SOA,NS,MX,A,TXT,SRV) |
 
 
 
