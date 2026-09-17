@@ -51,6 +51,22 @@ Whatweb networkwalks.com
 *CMS: WordPress 7.1 | plugin:WordPress Download Manager 3.3.58*
 <img width="1114" height="577" alt="t2" src="https://github.com/user-attachments/assets/38b4323f-9f83-4eb1-a00f-d79a1b41a280" />
 
+## 3. nslookup networkwalks.com
+```bash
+nslookup networkwalks.com
+```
+* server:8.8.8.8 | Address: 8.8.8.8#53 *
+ <img width="1107" height="577" alt="T3" src="https://github.com/user-attachments/assets/01fe0f7d-3ee3-4282-a51f-0e59d05b912d" />
+
+ ## 4. curl  -I https://networkwalks.com
+ ```bash
+ curl  -I https://networkwalks.com
+```
+* server: Apache | Status code : 200 | cookies*
+  <img width="1920" height="1080" alt="t4" src="https://github.com/user-attachments/assets/2deb237d-8490-413d-a30f-5cd28ea1da24" />
+
+
+
 
 
 
