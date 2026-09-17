@@ -1,7 +1,7 @@
 # 🔎PENETRATING TEST REPORT
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-blue)![Tool](https://img.shields.io/badge/Tool-Zenmap-red)![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-blue)![Status](https://img.shields.io/badge/Status-Completed-green)
 ## ZENMAP | NETWORK RECONNAISSANCE
-## Field Detail
+## 1. Field Detail
 ## ⭐OVERVIEW 
 | Field | Details|
 |----|----|
@@ -12,7 +12,7 @@
 | Assessment Type | Network Reconnaissance & Zenmap
 | Module | PM-2 & PM-5 |
 
-## 🛠Tools Used 
+## 2.🛠Tools Used 
 | Tools | Purpose|
 |-----|------|
 | Whois | Domain Registeration details |
@@ -34,8 +34,9 @@
 |CMS | Modsecurity(Spiderlabs)|
 |DNS Server | BIND 9.16.23-RH |
 |DNS Records Fund | 8(SOA,NS,MX,A,TXT,SRV) |
-# Evidence Gallery 
-## 1. whois networkwalks.com
+
+# 📷3.Evidence Gallery 
+## ⭐ whois networkwalks.com
 ```bash
 whois networkwalks.com
 ```
@@ -44,7 +45,8 @@ NS6135.HOSTGATOR.COM
  NS6136.HOSTGATOR.COM*
 <img width="874" height="822" alt="p1" src="https://github.com/user-attachments/assets/6b076d8e-d26b-42dc-8a31-13cebda87a69" />
 
- ## 2. Whatweb networkwalks.com
+
+ ## ⭐ Whatweb networkwalks.com
 ```bash
 Whatweb networkwalks.com
 ```
@@ -52,7 +54,7 @@ Whatweb networkwalks.com
 <img width="1114" height="577" alt="t2" src="https://github.com/user-attachments/assets/38b4323f-9f83-4eb1-a00f-d79a1b41a280" />
 
 
-## 3. nslookup networkwalks.com
+## ⭐ nslookup networkwalks.com
 ```bash
 nslookup networkwalks.com
 ```
@@ -60,7 +62,7 @@ nslookup networkwalks.com
  <img width="1107" height="577" alt="T3" src="https://github.com/user-attachments/assets/01fe0f7d-3ee3-4282-a51f-0e59d05b912d" />
 
 
- ## 4. curl  -I https://networkwalks.com
+ ## ⭐ curl  -I https://networkwalks.com
  ```bash
  curl  -I https://networkwalks.com
 ```
@@ -68,7 +70,7 @@ nslookup networkwalks.com
   <img width="1920" height="1080" alt="t4" src="https://github.com/user-attachments/assets/2deb237d-8490-413d-a30f-5cd28ea1da24" />
 
 
- ## 5. wafw00f networkwalks.com
+ ## ⭐ wafw00f networkwalks.com
   ```bash
  wafw00f networkwalks.com
 ```
@@ -77,14 +79,14 @@ nslookup networkwalks.com
 <img width="1920" height="1080" alt="T5" src="https://github.com/user-attachments/assets/4bf4723c-bc56-432f-9766-40adae9974b8" />
 
 
-## 6. dnsrecon -d networkwalks.com
+## ⭐ dnsrecon -d networkwalks.com
  ```bash
   dnsrecon -d networkwalks.com
 ```
 *SOA,NS,MX,A,TXT,SRV*
 <img width="1920" height="1080" alt="t6" src="https://github.com/user-attachments/assets/a36d0e99-ddc2-4912-8b3a-2f1f7973f5aa" />
 
-## 4.2 Network Scanning with Zenmap
+## 4 Network Scanning with Zenmap
 
 For the second activity, I used **Zenmap** to perform network discovery on my local network. The practical required me to identify my local IP address and subnet, discover live hosts, identify their IP and MAC addresses, and generate a network topology.
 
