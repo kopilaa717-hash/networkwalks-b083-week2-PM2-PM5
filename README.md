@@ -179,10 +179,10 @@ Cybersecurity Starter
 
 Cybersecurity Professional B083
 
-LinkedIn:https://lnkd.in/p/g7sw8JZK
+LinkedIn:linkedin.com/in/kopila-adhikari-5b192a427
 
 
-# 📌Project Imformation
+# 📌Project Information
 
 **Program Name:** Cybersecurity at Networkwalks | **Week: 02 | Project:** Cybersecurity & PENETRATION TESTING REPORT | 
 **Repository:** GitHub
