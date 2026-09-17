@@ -22,8 +22,8 @@
 | dnsrecon | DNS record enumeration (NS,MX.TXT,SRV)
 | Zenmap(Nmap GUI) | local network host discovery & topology |
 
-#🔐3. Key Findings
-##🐾 Footprinting
+#3.🔐 Key Findings
+## Footprinting
 <code>(networkwalks.com)</code>
 |Finding | Value |
 |----|----|
