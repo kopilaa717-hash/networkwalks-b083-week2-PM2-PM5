@@ -42,11 +42,18 @@ whois networkwalks.com
 *Registrar: GoDaddy.com | Name Servers:
 NS6135.HOSTGATOR.COM
  NS6136.HOSTGATOR.COM*
+<img width="874" height="822" alt="p1" src="https://github.com/user-attachments/assets/6b076d8e-d26b-42dc-8a31-13cebda87a69" />
 
  ## 2. Whatweb networkwalks.com
 ```bash
 Whatweb networkwalks.com
 ```
+*CMS: WordPress 7.1 | plugin:WordPress Download Manager 3.3.58*
+<img width="1114" height="577" alt="t2" src="https://github.com/user-attachments/assets/38b4323f-9f83-4eb1-a00f-d79a1b41a280" />
+
+
+
+
 
 
  
