@@ -1,7 +1,7 @@
 # 🔎PENETRATING TEST REPORT
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-blue)![Tool](https://img.shields.io/badge/Tool-Zenmap-red)![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-blue)![Status](https://img.shields.io/badge/Status-Completed-green)
 ## ZENMAP | NETWORK RECONNAISSANCE
-## 1. Field Detail
+# 1. Field Detail
 ## ⭐OVERVIEW 
 | Field | Details|
 |----|----|
@@ -12,7 +12,7 @@
 | Assessment Type | Network Reconnaissance & Zenmap
 | Module | PM-2 & PM-5 |
 
-## 2.🛠Tools Used 
+# 2.🛠Tools Used 
 | Tools | Purpose|
 |-----|------|
 | Whois | Domain Registeration details |
@@ -22,7 +22,7 @@
 | dnsrecon | DNS record enumeration (NS,MX.TXT,SRV)
 | Zenmap(Nmap GUI) | local network host discovery & topology |
 #🔐 Key Findings
-## Footprinting
+##🐾 Footprinting
 <code>(networkwalks.com)</code>
 |Finding | Value |
 |----|----|
@@ -86,7 +86,7 @@ nslookup networkwalks.com
 *SOA,NS,MX,A,TXT,SRV*
 <img width="1920" height="1080" alt="t6" src="https://github.com/user-attachments/assets/a36d0e99-ddc2-4912-8b3a-2f1f7973f5aa" />
 
-## 4 Network Scanning with Zenmap
+# 4. Network Scanning with Zenmap
 
 For the second activity, I used **Zenmap** to perform network discovery on my local network. The practical required me to identify my local IP address and subnet, discover live hosts, identify their IP and MAC addresses, and generate a network topology.
 
