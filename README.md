@@ -21,7 +21,8 @@
 | Wafw00f | Web Application Firewall detection|
 | dnsrecon | DNS record enumeration (NS,MX.TXT,SRV)
 | Zenmap(Nmap GUI) | local network host discovery & topology |
-#🔐 Key Findings
+
+#🔐3. Key Findings
 ##🐾 Footprinting
 <code>(networkwalks.com)</code>
 |Finding | Value |
@@ -35,7 +36,7 @@
 |DNS Server | BIND 9.16.23-RH |
 |DNS Records Fund | 8(SOA,NS,MX,A,TXT,SRV) |
 
-# 📷3.Evidence Gallery 
+# 📷4.Evidence Gallery 
 ## ⭐ whois networkwalks.com
 ```bash
 whois networkwalks.com
@@ -86,7 +87,7 @@ nslookup networkwalks.com
 *SOA,NS,MX,A,TXT,SRV*
 <img width="1920" height="1080" alt="t6" src="https://github.com/user-attachments/assets/a36d0e99-ddc2-4912-8b3a-2f1f7973f5aa" />
 
-# 4. Network Scanning with Zenmap
+# 5. Network Scanning with Zenmap
 
 For the second activity, I used **Zenmap** to perform network discovery on my local network. The practical required me to identify my local IP address and subnet, discover live hosts, identify their IP and MAC addresses, and generate a network topology.
 
@@ -105,7 +106,7 @@ After completing the scan, I opened the **Topology** section in Zenmap, enabled 
 **Note:** The actual subnet, number of hosts and addresses should be replaced with the results from my own network when submitting the report.
 
 
-# 5. Risk Analysis / Impact
+# 6. Risk Analysis / Impact
 
 Based on the information collected during the footprinting and network scanning activities, I identified the following potential risks.
 
@@ -126,7 +127,7 @@ The practical exercises primarily involved information gathering and host discov
 
 Therefore, the presence of information such as a software version, IP address or DNS record does not by itself mean that the system is vulnerable. Further authorized security testing would be required to confirm any actual vulnerability.
 
-# 6. Recommendations
+# 7. Recommendations
 
 Based on the observations from these activities, I recommend the following security improvements:
 
@@ -157,7 +158,7 @@ Based on the observations from these activities, I recommend the following secur
 9.  **Perform security testing with authorization**  
     Reconnaissance and scanning should only be performed against systems and networks where appropriate authorization has been provided.
 
-    # 7. Conclusion
+    # 8. Conclusion
 
 During Week 2 of my Cybersecurity & Ethical Hacking internship, I completed practical activities covering footprinting, reconnaissance and network scanning.
 
